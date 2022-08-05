@@ -1,0 +1,16 @@
+.contact-section {
+    padding: 3em;
+  }
+
+  .container-contact {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+  }
+
+  .form {
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    margin-top: 2em;
+  }
